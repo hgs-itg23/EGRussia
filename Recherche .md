@@ -1,4 +1,3 @@
 #### Recherche für Projekt
-### Ideen
-- Smartmirror
- Mit Bildschirm -Evtl Kommunizieren
+### Malefiz
+Malefiz spielen über den Computer.
