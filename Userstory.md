@@ -1,2 +1,14 @@
 #### Userstory
-Wenn man Malefiz startet, soll man angeben, wie viele Spieler spielen. Es können 2 bis 4 Spieler ausgewählt werden. Jeder Spieler soll sich einen Namen geben können und ebenso eine Farbe auswählen. Nun ist das Spiel bereit zum starten. Der Zufall entscheidet, welcher Spieler anfangen darf. Hat man keine Figur auf dem Spielfeld, so darf man drei mal würfeln, hat man eine sechs, kann man seine Figur rausholen und mit dieser laufen. Es ist nicht möglich, zwei Figuren auf dem Startfeld stehen zu haben, das bedeutet, man muss der Figur die man raus geholt hat direkt laufen. Der Spieler würfelt und kann nur so viele Felder gehen, wie er auch gewürfelt hat. Steht ein gegnerischer Spieler auf dem, auf welches man mit seiner Augenzahl landet, so wird dieser Spieler rausgeworfen und landet wieder an seinem Startpunkt und braucht wieder eine 6 um seine Figur auf das Spielfeld zu bringen. Wenn man mit der Augenzahl auf ein Bloockstein kommt kann er ihn platzieren wo er möchte außer auf ein Spieler, auf dem start Gebiet und die erste Reihe. Wenn ein Spieler auf einem Weg ist und nicht die Augenzahl würfelt um auf dem Blockstein zu laden, kann er nur bis vor dem Blocksteinlaufen oder in die andere Richtung. wenn ein Spieler bei einer Kreuzung ist kann er entweder abbiegen oder weiter gerade aus laufen. Wenn der erste Spieler es ins Ziel gechafft hat, hat er gewonnen.
+Verifiziere, das... 
+• Malefiz gestartet ist.
+• 2 bis 4 Spieler ausgewählt werden und den Namen dazu schreiben.
+• Jeder Spieler eine Farbe ausgewählt hat.
+• der Zufall entscheidet, welcher Spieler beginnt.
+• man drei mal Würfeln darf, wenn keine Figur auf dem Spielfeld ist.
+• man bei einer sechs, eine Figur aus dem Startfeld rausholen kann und bei noch einer sechs hintereinander die Figur bewegt werden muss.
+• man die Anzahl laufen kann welche der Würfel zeigt.
+• man eine gegnerische Figur bei Augenzahl des würfels rauswirft und er wieder im Startpunkt landet.
+• man einen Blockstein so plazieren kann wie man will bei Augenzahl. Außer auf dem Startpunkt, einer Figur und die erste Reihe.
+• man bei nicht Augenzahl nur vor den Blockstein laufen kann oder in die andere Richtung.
+• man bei einer Kreuzung abbiegen oder weiter laufen kann.
+• der erste Spieler im Ziel gewonnen hat. 
