@@ -19,3 +19,11 @@ Userstory überarbeitet und keinen Fließtext mehr, sondern Punkte.
 
 ### geplanter Fortschritt
 Der selbe wie in der ersten E-mail.
+
+#### 3.Email
+
+### Was wir gemacht haben
+Java angeschaut und vertraut gemacht. Strucktur überlegt wie das Spiel aufgebaut sein soll.
+
+### geplanter Fortschritt
+Der selbe wie in der ersten E-mail.
