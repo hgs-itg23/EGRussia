@@ -27,3 +27,11 @@ Java angeschaut und vertraut gemacht. Strucktur überlegt wie das Spiel aufgebau
 
 ### geplanter Fortschritt
 Der selbe wie in der ersten E-mail.
+
+#### 4.Email
+
+### Was wir gemacht haben 
+Bilder gesucht für das Spiel(Würfel, Spielfigur). JFrame angeschaut und ausprobiert.
+
+### geplanter Fortschritt
+unverändert.
