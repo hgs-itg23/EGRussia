@@ -7,26 +7,27 @@ Gerrit Fischer: *Entwickler*
 <br>
 <br>
 ## Installationsanleitung
-1. Öffnen Sie Github im Browser.
-2. Erstellen Sie sich ein Konto oder melden Sie sich an.
-3. Suchen Sie das Projekt EGRussia.
-4. Erstellen Sie ein pull request.
-5. Importieren Sie diese Datei nun in Eclipse ein.
-6. Runen Sie das Projekt.
+1. Öffnen Sie Github im Browser
+2. Erstellen Sie sich ein Konto oder melden Sie sich an
+3. Suchen Sie das Projekt EGRussia
+4. Erstellen Sie ein pull request
+5. Importieren Sie diese Datei nun in Eclipse ein
+6. Runen Sie das Projekt
+
 <br>
 <br>
 ## Bedienungsanleitung
-- Wählen Sie die Anzahl der Spieler aus.
-- Drücken Sie auf Start game.
-- Nun wird der aktive Spieler angezeigt.
-- Dieser darf nun Würfeln.
-- Rechts vom Würfel steht die gewürfelte Zahl.
-- Klicken Sie mit der Maus auf Ihre Figur.
-- Wählen Sie eins der angezeigten Felder.
-- Sollten Sie auf eines der roten Felder landen, so können Sie einen Blockierstein setzten wohin Sie wollen außer in die erste und zweite Reihe und im Ziel.
-- Nun ist der nächste Spieler am Zug.
-- Landen Sie mit der Augenzahl auf einen Mitspieler, so landet dieser wieder im Startfeld.
-- Gewonnen hat der Spieler, der zuerst im Ziel ankommt.
+- Wählen Sie die Anzahl der Spieler aus
+- Drücken Sie auf Start game
+- Nun wird der aktive Spieler angezeigt
+- Dieser darf nun Würfeln
+- Rechts vom Würfel steht die gewürfelte Zahl
+- Klicken Sie mit der Maus auf Ihre Figur
+- Wählen Sie eins der angezeigten Felder
+- Sollten Sie auf eines der roten Felder landen, so können Sie einen Blockierstein setzten wohin Sie wollen außer in die erste und zweite Reihe und im Ziel
+- Nun ist der nächste Spieler am Zug
+- Landen Sie mit der Augenzahl auf einen Mitspieler, so landet dieser wieder im Startfeld
+- Gewonnen hat der Spieler, der zuerst im Ziel ankommt
 <br>
 <br>
 
