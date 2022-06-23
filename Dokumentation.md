@@ -16,6 +16,7 @@ Gerrit Fischer: *Entwickler*
 
 <br>
 <br>
+
 ## Bedienungsanleitung
 - Wählen Sie die Anzahl der Spieler aus
 - Drücken Sie auf Start game
