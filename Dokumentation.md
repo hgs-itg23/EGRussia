@@ -29,12 +29,12 @@ Gerrit Fischer: *Entwickler*
 - Gewonnen hat der Spieler, der zuerst im Ziel ankommt.
 <br>
 <br>
-<br>
-### Entwicklungsumgebung
+
+## Entwicklungsumgebung
 Programmiert wurde dieses Projekt in Java. Die Dokumentation erfolgte in Markdown.
 <br>
-### Repository
+## Repository
 Das Repository haben wir in GitHub angelegt.
 <br>
-### Tools und Software
+## Tools und Software
 Für Java haben wir die Software Eclipse benutzt. In deer Schule haben wir Microsoft Studios, Eclipse und GitHub verwendet.
