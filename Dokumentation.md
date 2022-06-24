@@ -35,10 +35,12 @@ Gerrit Fischer: *Entwickler*
 ## Entwicklungsumgebung
 Programmiert wurde dieses Projekt in Java. Die Dokumentation erfolgte in Markdown.
 <br>
+<br>
 
 ## Repository
 Das Repository haben wir in GitHub angelegt.
 <br>
+<br>
 
 ## Tools und Software
-Für Java haben wir die Software Eclipse benutzt. In deer Schule haben wir Microsoft Studios, Eclipse und GitHub verwendet.
+Für Java haben wir die Software Eclipse benutzt. In der Schule haben wir Microsoft Studios, Eclipse und GitHub verwendet.
