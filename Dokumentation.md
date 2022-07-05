@@ -44,3 +44,8 @@ Das Repository haben wir in GitHub angelegt.
 
 ## Tools und Software
 Für Java haben wir die Software Eclipse benutzt. In der Schule haben wir Microsoft Studios, Eclipse und GitHub verwendet.
+<br>
+<br>
+
+## Quellen 
+Wir haben das Spiel mit hilfreichen Videos von Youtube und mit etwas Hilfe von meinem Cousin der Informatik Studiert programmiert. Von dem Spiel "Mensch ärgere dich nicht" haben wir uns die BoardStructure abgeschaut und für unser Spiel dann verwendet.  
